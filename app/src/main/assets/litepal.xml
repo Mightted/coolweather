@@ -5,6 +5,6 @@
     <list>
         <mapping class="com.mightted.coolweather.db.Province" />
         <mapping class="com.mightted.coolweather.db.City" />
-        <mapping class="com.mightted.coolweather.db.City" />
+        <mapping class="com.mightted.coolweather.db.County" />
     </list>
 </litepal>
